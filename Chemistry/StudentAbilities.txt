@@ -1,0 +1,95 @@
+Overall 
+•	Student will ask questions and state logical hypothesis to explain natural phenomena
+•	Student will utilize the scientific method to answer questions about natural phenomena
+•	Student will use evidence to explain the relationship between atoms and visible matter
+•	Student will use scientific terms to accurately describe chemical compounds
+•	Student will understand the relationship between science, technology, and their daily lives 
+
+Unit 1
+Describe the processes and uses of filtration, distillation, and chromatography in the separation of a mixture
+Use particle models / diagrams to differentiate among elements, compounds, and mixtures
+Distinguish between chemical and physical changes
+Describe and explain what characterizes science and its methods
+Identify sources of information and assess their reliability according to the strict standards of scientific investigation
+Describe how scientific inferences are drawn from scientific observations and provide examples from the content being studied
+Explain the difference between a scientific law and a scientific theory
+
+
+Unit 2
+Use models to describe the structure of an atom
+Relate experimental evidence to the models of the atom
+Determine the number of protons or electrons in an atom or ion when given one of these values
+Calculate the mass of an atom, the number of neutrons or the number of protons, given the other two values
+Distinguish between ground state and excited state electron configurations
+Identify an element by comparing its bright line spectrum to given spectra
+Distinguish between valence and non-valence electrons, given an electron configuration
+Given an atomic mass of an element, given the masses and ratios of naturally occurring isotopes
+Classify elements as metals, nonmetals, metalloids, or noble gases by their properties
+Compare and contrast properties of elements within a group or a period for Groups 1,2, 13-18 on the periodic table
+Explain the placement of an unknown element on the Periodic Table based on its properties
+Demonstrate bonding concepts, using Lewis dot structures representing valence electrons: transferred (ionic), shared (covalent), an in a stable octet
+Compare the physical properties of substances based on chemical bonds (ionic, covalent, hydrogen) and intermolecular forces (e.g. conductivity, malleability, solubility, hardness, melting point, and boiling point)
+Determine the noble gas configuration an atom will achieve by bonding
+
+
+Unit 3
+Identify types of chemical reactions
+Determine a missing reactant or product in a balanced equation
+Balance equations, given the formulas or reactants and products
+Determine the mass of a given number of moles of a substance
+Create and use models of particles to demonstrate balanced equations
+Write and balance half-reactions for oxidation and reduction of free elements and their monoatomic ions
+Identify and label the parts of a voltaic cell (cathode, anode, salt bridge) and an electrolytic cell (cathode, anode) and direction of electron flow, given the reaction equation
+Compare and contrast voltaic and electrolytic cells
+Use an activity series to determine whether a redox reaction is spontaneous
+Interpret balanced chemical equations in terms of conservation of matter and energy
+Calculate simple mole-mole stoichiometry problems, given a balanced equation
+Determine the empirical formula from a molecular formula and the molecular formula from the empirical formula and molecular mass
+Calculate the formula mass and gram-formula mass
+Determine the number of moles of a substance, given its mass
+
+Unit 4
+Student will use evidence to explain the relationship between atoms and visible matter
+Student will use scientific terms to accurately describe chemical compounds
+
+Unit 5
+Use a simple particle model to differentiate among properties of solid, liquids, and gases at STP and under other conditions
+Explain vapor pressure, evaporation rate, and phase changes in terms of the changes in energy and intermolecular distances.
+Explain the gas laws in terms of KMT
+Solve problems, using the combined gas laws
+Convert temperatures in degrees Celsius to Kelvin and vice versa
+Interpret and construct solubility curves to distinguish among saturated, supersaturated, and unsaturated solutions
+Apply the adage “like dissolves like” to real-world situations
+Interpret solution concentration data
+Calculate solution concentration in molarity (M), percent mass, and parts per million (ppm)
+Given properties, identify substances as Arrhenius acids or Arrhenius bases
+Identify solutions as acid, base, or neutral based upon the pH and acid-base indicator color
+Write simple neutralization reactions when given the reactants
+Calculate the concentration or volume of a solution, using titration data
+
+Unit 6
+Distinguish between endothermic and exothermic reactions, using energy terms in a reaction equation, enthalpy, potential energy diagrams, or experimental data
+Read and interpret potential energy diagrams: PE reactants, PE products, activation energy (with or without a catalyst), heat of reaction
+Distinguish between heat energy and temperature in terms of molecular motion and amount of matter
+Qualitatively interpret heating and cooling curves in terms of changes in kinetic and potential energy, heat of vaporization, heat of fusion, and phase-changes
+Calculate the heat involved in a phase or temperature change for a given sample of matter
+Use collision theory to explain how various factors, such as temperature, surface area, and concentration, influence the rate of reaction
+Identify examples of physical equilibria as a solution equilibrium and phase equilibrium, including the concept that a saturated solution is at equilibrium
+Qualitatively describe the effect of stress on equilibrium, using LeChatelier’s principle
+Compare the entropy of phases of matter
+
+Unit 7
+Classify an organic compound based on its structural or condensed structural formula
+Draw a structural formula with the functional group(s) on a straight chain hydrocarbon backbone, when given the IUPAC name for the compound
+Draw structural formulas for alkanes, alkenes, and alkynes containing a maximum of ten carbon atoms
+Identify organic reactions
+Interpret and write isotopic notation
+Calculate the initial amount, the fraction remaining, or the half-life of a radioactive isotope, given two of the three variables
+Compare and contrast fission and fusion reactions
+Complete nuclear equations; predict missing particles from nuclear equations
+Identify specific uses of some common radioisotopes, such as I-131 in diagnosing and treating thyroid disorders, C-14 to C-21 ration in dating once-living organisms, U-238 to Pb-206 ratio in dating geological formations, and Co-60 in treating cancer
+
+Unit 8
+How does chemistry relate to other scientific fields and the world around us?
+How are microscopic particles related to the visible world?
+How can one reconcile competing explanations for a phenomenon?
